@@ -1,4 +1,4 @@
-[![MasterHead](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200402205611/What-is-PERN-Stack.png)
+![MasterHead](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200402205611/What-is-PERN-Stack.png)
 <h1 align="center">Hi 👋, I'm Zimmer Kennedy</h1>
 <h3 align="center">A Dedicated Fullstack Software Developer | PERN STACK</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/yaronzz/yaronzz/master/res/1.gif">
