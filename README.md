@@ -1,4 +1,4 @@
-![MasterHead](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200402205611/What-is-PERN-Stack.png)
+<p align="center"> <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200402205611/What-is-PERN-Stack.png"></p>
 <h1 align="center">Hi 👋, I'm Zimmer Kennedy</h1>
 <h4 align="center">As a recent graduate from Fullstack Academy, I am eager to embark on a lifelong career in the tech industry. From a young age, I have been fascinated by how software development enables the creation of functional and innovative solutions. Now, I am finally taking the necessary steps to break into the industry.
 
