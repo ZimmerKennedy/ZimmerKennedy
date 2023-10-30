@@ -1,5 +1,4 @@
 <h1 align="center">Hi There!👋, I'm Zimmer Kennedy</h1>
-<h4 align="center">Driven and versatile Software Engineer with a strong background in Fullstack Development. Leveraging my hands-on experience in Java, Spring, Angular, ReactJS, NodeJS, PostgreSQL, MySQL, Docker, Kubernetes, Jenkins and more, I create exceptional digital experiences that merge aesthetics and functionality.<br>
 <br>
  💬 Ask me about **Anything, lets talk**<br>
 <br>
