@@ -1,10 +1,4 @@
 <h1 align="center">Hi There!👋, I'm Zimmer Kennedy</h1>
-<br>
- 💬 Ask me about **Anything, lets talk**<br>
-<br>
- 📫 How to reach me **kennedyzimmer00@gmail.com**<br>
-<br>
-⚡ Fun fact **Coding and Working Out is how I spend my day to day!**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
